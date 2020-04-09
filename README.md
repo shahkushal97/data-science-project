@@ -1,1 +1,4 @@
 # data-science-project
+The project is about predicting whether the customer is likely to purchase the Term Subscription plan from the bank based on the customer's past records. First step involved exploratory analysis of 45000 customers with 17 attributes using correaltion matrix along with cleaning and modeling using one-hot encoding. I have used ensemble models such as Logistic Regression, classification tree, random forest, KNN, Naives Bayes' and k-fold cross validation.
+Performance of the models was evaluated by assessing their prediction accuracy, precision, recall, F1-score and confusion matrix. Using these metrics, ROC-AUC curve was plotted to get more clarity on the performance.
+The final outcome of the prediction would help the bank to invest in the marketing campaigns accordingly as the target customers who are likely to purchase the subscription are known.
